@@ -1,4 +1,4 @@
 mistforest
 ==========
 
-It's a practice project to implement varis trees in data structures.
+It's a practice project to implement various trees in data structures.
